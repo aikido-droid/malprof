@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AutoJoin</key>
+			<true/>
+			<key>CaptiveBypass</key>
+			<false/>
+			<key>EncryptionType</key>
+			<string>WPA3</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>Password</key>
+			<string>xxxxxxxxxxxxx</string>
+			<key>PayloadDescription</key>
+			<string>Configures WPA3 settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.example.wpa3</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>xxxxxxxxxxxxx</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Wi-Fi</string>
+	<key>PayloadIdentifier</key>
+	<string>com.example.wpa3</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
